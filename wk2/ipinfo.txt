@@ -1,0 +1,126 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fnil\fcharset0 HelveticaNeue-Light;\f2\fnil\fcharset0 HelveticaNeue;
+\f3\fnil\fcharset0 HelveticaNeue-Bold;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red225\green226\blue226;\red41\green101\blue168;
+\red244\green244\blue244;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c20000\c20000\c20000;\cssrgb\c90588\c90980\c90980;\cssrgb\c20000\c47843\c71765;
+\cssrgb\c96471\c96471\c96471;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\qc\partightenfactor0
+
+\f0\b\fs24 \cf0 Wikipedia.com\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs42 \cf2 \cb3 \expnd0\expndtw0\kerning0
+Name Servers
+\f2\fs28 \
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/ns0.wikimedia.org"}}{\fldrslt \cf4 \cb5 ns0.wikimedia.org}}\cb1 \
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/208.80.154.238"}}{\fldrslt \cf4 \cb5 208.80.154.238}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/ns1.wikimedia.org"}}{\fldrslt \cf4 \cb5 ns1.wikimedia.org}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/208.80.153.231"}}{\fldrslt \cf4 \cb5 208.80.153.231}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/ns2.wikimedia.org"}}{\fldrslt \cf4 \cb5 ns2.wikimedia.org}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/91.198.174.239"}}{\fldrslt \cf4 \cb5 91.198.174.239}}\cf4 \cb5 \
+\
+\pard\pardeftab720\qc\partightenfactor0
+
+\f3\b \cf6 Yahoo.ca
+\f2\b0 \cf4 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs42 \cf2 \cb3 Name Servers
+\f2\fs28 \
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/ns1.yahoo.com"}}{\fldrslt \cf4 \cb5 ns1.yahoo.com}}\cb1 \
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/68.180.131.16"}}{\fldrslt \cf4 \cb5 68.180.131.16}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/ns2.yahoo.com"}}{\fldrslt \cf4 \cb5 ns2.yahoo.com}}\
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/68.142.255.16"}}{\fldrslt \cf4 \cb5 68.142.255.16}}\
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/ns3.yahoo.com"}}{\fldrslt \cf4 \cb5 ns3.yahoo.com}}\
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/27.123.42.42"}}{\fldrslt \cf4 \cb5 27.123.42.42}}\
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/ns5.yahoo.com"}}{\fldrslt \cf4 \cb5 ns5.yahoo.com}}\
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/202.165.97.53"}}{\fldrslt \cf4 \cb5 202.165.97.53}}\
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/ns7.yahoo.com"}}{\fldrslt \cf4 \cb5 ns7.yahoo.com}}\
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/68.142.226.82"}}{\fldrslt \cf4 \cb5 68.142.226.82}}\cf4 \cb5 \
+\pard\pardeftab720\qc\partightenfactor0
+
+\f3\b \cf6 Microsoft.ca\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs42 \cf2 \cb3 Name Servers
+\f2\fs28 \
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/ns1-07.azure-dns.com"}}{\fldrslt \cf4 \cb5 ns1-07.azure-dns.com}}\cb1 \
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/40.90.4.7"}}{\fldrslt \cf4 \cb5 40.90.4.7}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/ns2-07.azure-dns.net"}}{\fldrslt \cf4 \cb5 ns2-07.azure-dns.net}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/64.4.48.7"}}{\fldrslt \cf4 \cb5 64.4.48.7}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/ns3-07.azure-dns.org"}}{\fldrslt \cf4 \cb5 ns3-07.azure-dns.org}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/13.107.24.7"}}{\fldrslt \cf4 \cb5 13.107.24.7}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/ns4-07.azure-dns.info"}}{\fldrslt \cf4 \cb5 ns4-07.azure-dns.info}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/13.107.160.7"}}{\fldrslt \cf4 \cb5 13.107.160.7}}\
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs42 \cf2 \cb3 \
+\pard\pardeftab720\qc\partightenfactor0
+
+\f3\b \cf2 Apple.com\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 Name Servers
+\f2\fs28 \
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/a.ns.apple.com"}}{\fldrslt \cf4 \cb5 a.ns.apple.com}}\cb1 \
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/17.253.200.1"}}{\fldrslt \cf4 \cb5 17.253.200.1}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/b.ns.apple.com"}}{\fldrslt \cf4 \cb5 b.ns.apple.com}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/17.253.207.1"}}{\fldrslt \cf4 \cb5 17.253.207.1}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/c.ns.apple.com"}}{\fldrslt \cf4 \cb5 c.ns.apple.com}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/204.19.119.1"}}{\fldrslt \cf4 \cb5 204.19.119.1}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/d.ns.apple.com"}}{\fldrslt \cf4 \cb5 d.ns.apple.com}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/204.26.57.1"}}{\fldrslt \cf4 \cb5 204.26.57.1}}\cf4 \cb5 \
+\
+\
+\
+\pard\pardeftab720\qc\partightenfactor0
+
+\f3\b \cf6 whatsApp.com\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs42 \cf2 \cb3 Name Servers
+\f2\fs28 \
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/A.NS.WHATSAPP.NET"}}{\fldrslt \cf4 \cb5 A.NS.WHATSAPP.NET}}\cb1 \
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/66.111.48.12"}}{\fldrslt \cf4 \cb5 66.111.48.12}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/B.NS.WHATSAPP.NET"}}{\fldrslt \cf4 \cb5 B.NS.WHATSAPP.NET}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/66.111.49.12"}}{\fldrslt \cf4 \cb5 66.111.49.12}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/C.NS.WHATSAPP.NET"}}{\fldrslt \cf4 \cb5 C.NS.WHATSAPP.NET}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/66.111.50.12"}}{\fldrslt \cf4 \cb5 66.111.50.12}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/nameserver/D.NS.WHATSAPP.NET"}}{\fldrslt \cf4 \cb5 D.NS.WHATSAPP.NET}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://who.is/whois-ip/ip-address/66.111.51.12"}}{\fldrslt \cf4 \cb5 66.111.51.12}}\
+}

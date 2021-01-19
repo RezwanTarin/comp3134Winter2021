@@ -1,0 +1,28 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \CocoaLigature0 rezwantarin@Rezwans-MacBook-Air ~ % traceroute facebook.com\
+traceroute to facebook.com (31.13.80.36), 64 hops max, 52 byte packets\
+ 1  192.168.0.1 (192.168.0.1)  7.430 ms  5.353 ms  4.509 ms\
+ 2  174.119.114.1 (174.119.114.1)  13.213 ms  16.076 ms  13.103 ms\
+ 3  24.156.151.249 (24.156.151.249)  13.705 ms  18.758 ms  12.837 ms\
+ 4  0-4-0-7-cgw01.bloor.rmgt.net.rogers.com (209.148.233.149)  21.220 ms\
+    9906-cgw01.bloor.rmgt.net.rogers.com (209.148.231.1)  18.885 ms\
+    0-4-0-7-cgw01.bloor.rmgt.net.rogers.com (209.148.233.149)  16.254 ms\
+ 5  209.148.235.210 (209.148.235.210)  22.209 ms  15.576 ms  17.045 ms\
+ 6  ae8.pr02.yyz1.tfbnw.net (157.240.70.180)  12.870 ms\
+    ae8.pr01.yyz1.tfbnw.net (157.240.70.178)  14.102 ms\
+    ae8.pr02.yyz1.tfbnw.net (157.240.70.180)  44.053 ms\
+ 7  po101.psw03.yyz1.tfbnw.net (157.240.41.151)  16.531 ms\
+    po101.psw01.yyz1.tfbnw.net (157.240.41.147)  14.928 ms\
+    po102.psw04.yyz1.tfbnw.net (129.134.35.45)  15.038 ms\
+ 8  173.252.67.13 (173.252.67.13)  17.967 ms\
+    157.240.38.235 (157.240.38.235)  15.075 ms\
+    173.252.67.15 (173.252.67.15)  16.359 ms\
+ 9  edge-star-mini-shv-01-yyz1.facebook.com (31.13.80.36)  15.760 ms  11.759 ms  14.942 ms\
+rezwantarin@Rezwans-MacBook-Air ~ % \
+}

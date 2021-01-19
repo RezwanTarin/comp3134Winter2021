@@ -1,0 +1,102 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;\f2\fnil\fcharset0 Menlo-Regular;
+\f3\fnil\fcharset0 Menlo-Bold;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\qc\partightenfactor0
+
+\f0\b\fs72 \cf0 Nmap Facebook.com
+\fs24 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f1\b0 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\fs46 \cf2 \CocoaLigature0 root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap facebook.com\
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-19 03:09 UTC\
+Nmap scan report for facebook.com (31.13.80.36)\
+Host is up (0.0011s latency).\
+Other addresses for facebook.com (not scanned): 2a03:2880:f10e:83:face:b00c:0:25de\
+rDNS record for 31.13.80.36: edge-star-mini-shv-01-yyz1.facebook.com\
+Not shown: 996 filtered ports\
+PORT     STATE  SERVICE\
+80/tcp   open   http\
+443/tcp  open   https\
+843/tcp  closed unknown\
+5222/tcp closed xmpp-client\
+\
+Nmap done: 1 IP address (1 host up) scanned in 15.65 seconds\
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# 
+\fs22 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
+
+\f3\b \
+\
+
+\fs72 Nmap -p 82 YouTube.com\
+
+\fs22 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\b0\fs46 root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 82 youtube.com\
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-19 03:11 UTC\
+Nmap scan report for youtube.com (172.217.8.14)\
+Host is up (0.022s latency).\
+Other addresses for youtube.com (not scanned): 2607:f8b0:4004:803::200e\
+rDNS record for 172.217.8.14: iad23s59-in-f14.1e100.net\
+\
+PORT   STATE    SERVICE\
+82/tcp filtered xfer\
+\
+Nmap done: 1 IP address (1 host up) scanned in 11.40 seconds\
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# \
+\
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
+
+\f3\b\fs72 nmap -p 50-84 youtube.com\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\b0\fs46 root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 50-84 youtube.com\
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-19 03:16 UTC\
+Nmap scan report for youtube.com (172.217.8.14)\
+Host is up (0.022s latency).\
+Other addresses for youtube.com (not scanned): 2607:f8b0:4004:803::200e\
+rDNS record for 172.217.8.14: iad23s59-in-f14.1e100.net\
+Not shown: 34 filtered ports\
+PORT   STATE SERVICE\
+80/tcp open  http\
+\
+Nmap done: 1 IP address (1 host up) scanned in 12.70 seconds\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
+
+\f3\b\fs72 nmap -f google.com\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\b0\fs46 root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -f google.com\
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-19 03:19 UTC\
+Nmap scan report for google.com (172.217.1.14)\
+Host is up (0.0013s latency).\
+Other addresses for google.com (not scanned): 2607:f8b0:400b:80f::200e\
+rDNS record for 172.217.1.14: yyz10s14-in-f14.1e100.net\
+Not shown: 998 filtered ports\
+PORT    STATE SERVICE\
+80/tcp  open  http\
+443/tcp open  https\
+\
+Nmap done: 1 IP address (1 host up) scanned in 15.65 seconds\
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# \
+
+\f3\b\fs72 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\b0\fs46 \
+}

@@ -1,0 +1,98 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset0 HelveticaNeue-Bold;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red244\green244\blue244;}
+{\*\expandedcolortbl;;\cssrgb\c20000\c20000\c20000;\cssrgb\c96471\c96471\c96471;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720\qc\partightenfactor0
+
+\f1\b \cf2 Youtube.ca
+\f0\b0 \
+\pard\pardeftab720\partightenfactor0
+\cf2 Name\cb1 \
+\cb3 MarkMonitor, Inc.\cb1 \
+\cb3 Whois Server\cb1 \
+\cb3 whois.markmonitor.com\cb1 \
+\cb3 Referral URL\cb1 \
+\cb3 http://www.markmonitor.com\cb1 \
+\cb3 Status\cb1 \
+\cb3 clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)\cb1 \
+\cb3 clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)\cb1 \
+\cb3 clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)\cb1 \
+\cb3 serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)\cb1 \
+\cb3 serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)\cb1 \
+\cb3 serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)\
+\
+\pard\pardeftab720\qc\partightenfactor0
+
+\f1\b \cf2 Facebook.ca\
+\pard\pardeftab720\partightenfactor0
+
+\f0\b0 \cf2 Name\cb1 \
+\cb3 HEXONET Services Inc.\cb1 \
+\cb3 Whois Server\cb1 \
+\cb3 whois.ca.fury.ca\cb1 \
+\cb3 Referral URL\cb1 \
+\cb3 www.hexonet.net\cb1 \
+\cb3 Status\cb1 \
+\cb3 clientTransferProhibited https://icann.org/epp#clientTransferProhibited\
+\
+\pard\pardeftab720\qc\partightenfactor0
+
+\f1\b \cf2 Amazon.ca
+\f0\b0 \
+\pard\pardeftab720\partightenfactor0
+\cf2 Name\cb1 \
+\cb3 MarkMonitor International Canada Ltd.\cb1 \
+\cb3 Whois Server\cb1 \
+\cb3 whois.ca.fury.ca\cb1 \
+\cb3 Referral URL\cb1 \
+\cb3 Markmonitor.com\cb1 \
+\cb3 Status\cb1 \
+\cb3 clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\cb1 \
+\cb3 clientTransferProhibited https://icann.org/epp#clientTransferProhibited\cb1 \
+\cb3 clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\cb1 \
+\cb3 serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\cb1 \
+\cb3 serverTransferProhibited https://icann.org/epp#serverTransferProhibited\cb1 \
+\cb3 serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\
+\
+\
+\pard\pardeftab720\qc\partightenfactor0
+
+\f1\b \cf2 Google.ca\
+\pard\pardeftab720\partightenfactor0
+
+\f0\b0 \cf2 Name\cb1 \
+\cb3 MarkMonitor International Canada Ltd.\cb1 \
+\cb3 Whois Server\cb1 \
+\cb3 whois.ca.fury.ca\cb1 \
+\cb3 Referral URL\cb1 \
+\cb3 Markmonitor.com\cb1 \
+\cb3 Status\cb1 \
+\cb3 clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\cb1 \
+\cb3 clientTransferProhibited https://icann.org/epp#clientTransferProhibited\cb1 \
+\cb3 clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\cb1 \
+\cb3 serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\cb1 \
+\cb3 serverTransferProhibited https://icann.org/epp#serverTransferProhibited\cb1 \
+\cb3 serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\
+\
+\pard\pardeftab720\qc\partightenfactor0
+
+\f1\b \cf2 linkedIn.ca\
+\pard\pardeftab720\partightenfactor0
+
+\f0\b0 \cf2 Name\cb1 \
+\cb3 MarkMonitor International Canada Ltd.\cb1 \
+\cb3 Whois Server\cb1 \
+\cb3 whois.ca.fury.ca\cb1 \
+\cb3 Referral URL\cb1 \
+\cb3 Markmonitor.com\cb1 \
+\cb3 Status\cb1 \
+\cb3 clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\cb1 \
+\cb3 clientTransferProhibited https://icann.org/epp#clientTransferProhibited\cb1 \
+\cb3 clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\cb1 \
+}
