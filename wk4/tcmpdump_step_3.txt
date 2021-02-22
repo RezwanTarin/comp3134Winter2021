@@ -1,0 +1,34 @@
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -A -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+23:46:34.548966 IP cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1329286081, win 26663, options [nop,nop,TS val 383365079 ecr 3070724144], length 0
+E..4..@.9.v..wr..z#......l..O;K...h'#......
+.......0
+23:46:34.553256 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 1:109, ack 0, win 501, options [nop,nop,TS val 3070724158 ecr 383365079], length 108
+E....9@.@..4.z#..wr.....O;K..l.......l.....
+...>........i.._.M.`J0"@....U5.K...u{".B.<[.-.|..L:....5n./.b....;!.wb...aF..>....a\}...r...Qz...{u.g$..C.ibD6.~.(CK
+23:46:34.553439 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 109:145, ack 0, win 501, options [nop,nop,TS val 3070724158 ecr 383365079], length 36
+E..X.:@.@..{.z#..wr.....O;L-.l.......$.....
+...>....._.._.`.j....y.........CR.P\.'.....B
+23:46:34.553555 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 145:253, ack 0, win 501, options [nop,nop,TS val 3070724158 ecr 383365079], length 108
+E....;@.@..2.z#..wr.....O;LQ.l.......l.....
+...>....m......sP,..*..;...b=H....w7t.....8..G....[.gYuRxKS^h%.;b.......g......S12p..!....TzezR....a..B.u.
+~.z...qc.
+23:46:34.553665 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 253:289, ack 0, win 501, options [nop,nop,TS val 3070724158 ecr 383365079], length 36
+E..X.<@.@..y.z#..wr.....O;L..l.......$.....
+...>........T.R............P...y&U.-,.0k..)#
+23:46:34.555054 IP ubuntu-s-1vcpu-1gb-tor1-01.35226 > 67.207.67.3.domain: 4267+ [1au] PTR? 228.35.122.134.in-addr.arpa. (56)
+E..T.:@.@.k..z#.C.C....5.@1..............228.35.122.134.in-addr.arpa.......)........
+23:46:34.555172 IP ubuntu-s-1vcpu-1gb-tor1-01.39779 > 67.207.67.3.domain: 58928+ [1au] PTR? 228.35.122.134.in-addr.arpa. (56)
+E..T.;@.@.k-.z#.C.C..c.5.@1..0...........228.35.122.134.in-addr.arpa.......)........
+23:46:34.556466 IP 67.207.67.3.domain > ubuntu-s-1vcpu-1gb-tor1-01.35226: 4267 NXDomain 0/1/1 (123)
+E...n.@.?..BC.C..z#..5.....L.............228.35.122.134.in-addr.arpa................7.ns1.digitalocean.com.
+hostmaster..`2.o..*0.....	:.......)........
+23:46:34.556571 IP 67.207.67....?.......
+.l...l.a|".5M.....uh.*.....w...'.... .)I..........O.$+.......=.E.....u....Cz.RE......q.`8K8f.#wp....Y.....srd.....VKp.X%...)..;XG..l.H.....8.........,..9&.E.`.....V.L&Mm.....S.6: ..~.~.-Y.k......Rj|....Jo...\..c.<SU.....g....M.clZ/t.........}
+.(...P.~..A.0..dx.......V...v....u.#Un(.F...u6....._.2@.`p....V}..../..N....%..zk..i.(..R5%B...=.kbO.NK\.~.Z.^7....VYC.`...xov...............Z...1.K.]..a..iZ...(O...uHK....~p7t.o(..<&M....P.1. ....n..P_.D.y..ru...0.b2z.S...~{.|P,.5...........uu.....UgA}f....VE6	s.......Ld.g5.'..........y.S..I.......5.w.vPH......,.p./..|..%....\.".....$
+^C
+7991 packets captured
+20558 packets received by filter
+12535 packets dropped by kernel
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# 

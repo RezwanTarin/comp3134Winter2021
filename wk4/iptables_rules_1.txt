@@ -1,0 +1,3 @@
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# man iptables
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# iptables -L -V
+iptables v1.8.4 (legacy)

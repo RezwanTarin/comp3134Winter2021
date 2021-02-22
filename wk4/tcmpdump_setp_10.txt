@@ -1,0 +1,56 @@
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0 port 22
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+00:01:26.608742 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 1350500837:1350500945, ack 3027068409, win 551, options [nop,nop,TS val 3071616213 ecr 384246821], length 108
+00:01:26.608853 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 108:144, ack 1, win 551, options [nop,nop,TS val 3071616213 ecr 384246821], length 36
+00:01:26.608953 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 144:252, ack 1, win 551, options [nop,nop,TS val 3071616213 ecr 384246821], length 108
+00:01:26.609039 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 252:288, ack 1, win 551, options [nop,nop,TS val 3071616213 ecr 384246821], length 36
+00:01:26.617280 IP cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 0, win 32767, options [nop,nop,TS val 384246912 ecr 3071616207], length 0
+00:01:26.617280 IP cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 108, win 32766, options [nop,nop,TS val 384246917 ecr 3071616213], length 0
+00:01:26.620349 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 288:564, ack 1, win 551, options [nop,nop,TS val 3071616225 ecr 384246917], length 276
+00:01:26.620468 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 564:600, ack 1, win 551, options [nop,nop,TS val 3071616225 ecr 384246917], length 36
+00:01:26.620572 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 600:852, ack 1, win 551, options [nop,nop,TS val 3071616225 ecr 384246917], length 252
+00:01:26.620660 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 852:888, ack 1, win 551, options [nop,nop,TS val 3071616225 ecr 384246917], length 36
+00:01:26.620766 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 888:1140, ack 1, win 551, options [nop,nop,TS val 3071616225 ecr 384246917], length 252
+00:01:26.620844 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 1140:1176, ack 1, win 551, options [nop,nop,TS val 3071616225 ecr 384246917], length 36
+00:01:26.620944 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 1176:1428, ack 1, win 551, options [nop,nop,TS val 3071616225 ecr 384246917], length 252
+00:01:26.621704 IP cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 144, win 32767, options [nop,nop,TS val 384246918 ecr 3071616213], length 0
+00:01:26.621726 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 1428:3176, ack 1, win 551, options [nop,nop,TS val 3071616226 ecr 384246918], length 1748
+00:01:26.664013 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 3176:4624, ack 1, win 551, options [nop,nop,TS val 3071616268 ecr 384246918], length 1448
+00:01:26.807733 IP cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 252, win 32766, options [nop,nop,TS val 384247088 ecr 3071616213], length 0
+00:01:26.807734 IP cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1176, win 32751, options [nop,nop,TS val 384247088 ecr 3071616225], length 0
+00:01:26.807734 IP cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1428, win 32747, options [nop,nop,TS val 384247088 ecr 3071616225], length 0
+00:01:26.807734 IP cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 4624, win 32718, options [nop,nop,TS val 384247088 ecr 3071616268], length 0
+00:01:26.807734 IP cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 4624, win 32768, options [nop,nop,TS val 384247088 ecr 3071616268], length 0
+00:01:26.807801 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 4624:4920, ack 1, win 551, options [nop,nop,TS val 3071616412 ecr 384247088], length 296
+00:01:26.808120 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 4920:5164, ack 1, win 551, options [nop,nop,TS val 3071616413 ecr 384247088], length 244
+00:01:26.808224 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 5164:5200, ack 1, win 551, options [nop,nop,TS val 3071616413 ecr 384247088], length 36
+00:01:26.808332 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 5200:5444, ack 1, win 551, options [nop,nop,TS val 3071616413 ecr 384247088], length 244
+00:01:26.808419 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 5444:5480, ack 1, win 551, options [nop,nop,TS val 3071616413 ecr 384247088], length 36
+00:01:26.808526 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 5480:5724, ack 1, win 551, options [nop,nop,TS val 3071616413 ecr 384247088], length 244
+00:01:26.808605 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 5724:5760, ack 1, win 551, options [nop,nop,TS val 3071616413 ecr 384247088], length 36
+00:01:26.808708 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 5760:6004, ack 1, win 551, options [nop,nop,TS val 3071616413 ecr 384247088], length 244
+00:01:26.808843 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 6004:6040, ack 1, win 551, options [nop,nop,TS val 3071616413 ecr 384247088], length 36
+00:01:26.808982 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 6040:6284, ack 1, win 551, options [nop,nop,TS val 3071616413 ecr 384247088], length 244
+00:01:26.809112 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 6284:6320, ack 1, win 551, options [nop,nop,TS val 3071616414 ecr 384247088], length 36
+00:01:26.809244 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 6320:6580, ack 1, win 551, options [nop,nop,TS val 3071616414 ecr 384247088], length 260
+00:01:26.809326 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 6580:6616, ack 1, win 551, options [nop,nop,TS val 3071616414 ecr 384247088], length 36
+00:01:26.809427 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 6616:6876, ack 1, win 551, options [nop,nop,TS val 3071616414 ecr 384247088], length 260
+00:01:26.809504 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 6876:6912, ack 1, win 551, options [nop,nop,TS val 3071616414 ecr 384247088], length 36
+00:01:26.809605 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 6912:7164, ack 1, win 551, options [nop,nop,TS val 3071616414 ecr 384247088], length 252
+00:01:26.809685 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 7164:7200, ack 1, win 551, options [nop,nop,TS val 3071616414 ecr 384247088], length 36
+00:01:26.809783 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 7200:7460, ack 1, win 551, options [nop,nop,TS val 3071616414 ecr 384247088], length 260
+00:01:26.809859 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 7460:7496, ack 1, win 551, options [nop,nop,TS val 3071616414 ecr 384247088], length 36
+00:01:26.809989 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 7496:7748, ack 1, win 551, options [nop,nop,TS val 3071616414 ecr 384247088], length 252
+00:01:26.810116 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 7748:7784, ack 1, win 551, options [nop,nop,TS val 3071616415 ecr 384247088], length 36
+00:01:26.810236 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 7784:8044, ack 1, win 551, options [nop,nop,TS val 3071616415 ecr 384247088], length 260
+00:01:26.810312 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 8044:8080, ack 1, win 551, options [nop,nop,TS val 3071616415 ecr 384247088], length 36
+00:01:26.955755 IP cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 4920, win 32763, options [nop,nop,TS val 384247248 ecr 3071616412], length 0
+00:01:26.955836 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557: Flags [P.], seq 8080:10976, ack 1, win 551, options [nop,nop,TS val 3071616560 ecr 384247248], length 2896
+00:01:26.961474 IP cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 5444, win 32755, options [nop,nop,TS val 384247248 ecr 3071616413], length 0
+00:01:26.961475 IP cpef81d0faa8f73-cmf81d0faa8f70.cpe.net.cable.rogers.com.59557 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 6876, win 32732, options [nop,nop,TS val 384247248 ecr 3071616414], length 0
+^C
+16718 packets captured
+16893 packets received by filter
+172 packets dropped by kernel
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# 
