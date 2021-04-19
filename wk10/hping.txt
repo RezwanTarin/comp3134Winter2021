@@ -1,5 +1,5 @@
-1 = hping3 --baseport --destport 178.128.237.247 --data 10000
+hping3 --baseport --destport 178.128.237.247 --data 10000
 
-2 = hping3 --data 9000 -i x 90 -a 178.128.237.247
+hping3 -i x 90 -a 178.128.237.247
 
-3 = hping3 --force-icmp 110000 --data 1000 -i u75000
+--force-icmp 11000 --data 1 --faster -i u750
